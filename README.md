@@ -6,9 +6,7 @@ A modern, responsive portfolio showcasing my work as a **Full Stack Java Develop
 
 ## 🌐 Live Preview
 
-[![Portfolio Preview](https://user-images.githubusercontent.com/your-image-path/portfolio-preview.png)](https://portfolio-hemanth.netlify.app)
-
-🔗 **Visit:** [portfolio-hemanth.netlify.app](https://portfolio-hemanth.netlify.app)
+🔗 **Portfolio Website Visit:** [portfolio-hemanth.netlify.app](https://portfolio-hemanth.netlify.app)
 
 ---
 
@@ -48,32 +46,46 @@ This portfolio website represents my journey as a Full Stack Java Developer with
 ## 🛠️ Technologies Used
 
 ### Frontend
-<p align="left">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> 
-                  <img rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> 
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> 
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> 
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> 
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" /> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
+</p>
 
 ### Styling & Animation
-<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" /> 
-                  <img src="https://img.shields.io/badge/CSS%20Variables-%23333?style=flat&logo=css3&logoColor=white" height="25" /> 
-                  <img src="https://img.shields.io/badge/Flexbox-%231572B6?style=flat&logo=css3&logoColor=white" height="25" /> 
-                  <img src="https://img.shields.io/badge/Grid%20Layout-%231572B6?style=flat&logo=css3&logoColor=white" height="25" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/CSS%20Variables-%23333?style=flat&logo=css3&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Flexbox-%231572B6?style=flat&logo=css3&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Grid%20Layout-%231572B6?style=flat&logo=css3&logoColor=white" height="25" />
+</p>
 
 ### Deployment
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="Netlify" />
 </p>
 
+## ✨ Key Features
 
-## 📧 Contact Information
+- **Responsive Design** with Tailwind CSS
+- **Smooth Animations** using Intersection Observer & CSS
+- **React + TypeScript** for scalable development
+- **Projects Section** showcasing live apps and GitHub repos
+- **Contact Form** with mail integration
+- **SEO-friendly** and WCAG-compliant
 
-- **Email:** [hemanthkumarreddyk1@gmail.com](mailto:hemanthkumarreddyk1@gmail.com)
-- **Phone:** +91 8217458164
-- **LinkedIn:** [hemanth-kumar-reddy-k](https://www.linkedin.com/in/hemanth-kumar-reddy-k/)
-- **GitHub:** [hemanth-devzone](https://github.com/hemanth-devzone)
+---
 
+## 📬 Contact
 
+- 📧 Email: [hemanthkumarreddyk1@gmail.com](mailto:hemanthkumarreddyk1@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/hemanth-kumar-reddy-k](https://linkedin.com/in/hemanth-kumar-reddy-k)  
+- 💻 GitHub: [github.com/hemanth-devzone](https://github.com/hemanth-devzone)
 
+---
+
+> ⚡ *Built with passion and purpose – check it out and let’s connect!*
