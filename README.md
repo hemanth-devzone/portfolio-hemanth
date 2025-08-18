@@ -15,7 +15,7 @@ A modern, responsive portfolio website showcasing my expertise as a Full Stack J
 - [Project Structure](#project-structure)
 - [Sections](#sections)
 - [Deployment](#deployment)
-- [Contact](#contact-information)
+- [Contact](#contact)
 - [License](#license)
 
 ## 🎯 About
@@ -212,6 +212,7 @@ No environment variables are required for this static portfolio.
 ## 📧 Contact Information
 
 - **Email:** [hemanthkumarreddyk1@gmail.com](mailto:hemanthkumarreddyk1@gmail.com)
+- **Phone:** +91 8217458164
 - **LinkedIn:** [hemanth-kumar-reddy-k](https://www.linkedin.com/in/hemanth-kumar-reddy-k/)
 - **GitHub:** [hemanth-devzone](https://github.com/hemanth-devzone)
 
