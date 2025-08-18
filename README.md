@@ -8,7 +8,6 @@ A modern, responsive portfolio website showcasing my expertise as a Full Stack J
 
 ## 📋 Table of Contents
 
-- [TOC]
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
