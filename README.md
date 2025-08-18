@@ -8,14 +8,14 @@ A modern, responsive portfolio website showcasing my expertise as a Full Stack J
 
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Sections](#sections)
-- [Deployment](#deployment)
-- [Contact](#contact)
+- [About](#About)
+- [Features](#Features)
+- [Technologies Used](#Technologies-Used)
+- [Getting Started](#Getting-Started)
+- [Project Structure](#Project-Structure)
+- [Sections](#Sections)
+- [Deployment](#Deployment)
+- [Contact](#Contact-Information)
 - [License](#license)
 
 ## 🎯 About
