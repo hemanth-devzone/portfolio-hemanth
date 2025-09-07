@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my expertise as a Full Stack J
 
 ## 🌟 Live Demo
 
-**Portfolio Website:** [https://celadon-sawine-2695e5.netlify.app](https://celadon-sawine-2695e5.netlify.app)
+**Portfolio Website:** [https://portfolio-hemanth.netlify.app/](https://portfolio-hemanth.netlify.app/)
 
 ## 📋 Table of Contents
 
